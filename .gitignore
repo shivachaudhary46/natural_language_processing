@@ -1,0 +1,13 @@
+__pycache__/
+
+
+# nltk and environments
+nltk_data/
+*.zip
+*.tar.gz
+*.log
+
+myenv/
+
+# ipynb checkpoints
+.ipynb_checkpoint/
