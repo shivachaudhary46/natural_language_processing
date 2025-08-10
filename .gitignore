@@ -6,6 +6,7 @@ nltk_data/
 *.zip
 *.tar.gz
 *.log
+*.csv
 
 myenv/
 
