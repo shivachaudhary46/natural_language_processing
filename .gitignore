@@ -9,6 +9,7 @@ nltk_data/
 *.csv
 
 myenv/
+*.docx
 
 # ipynb checkpoints
 .ipynb_checkpoint/
