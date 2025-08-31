@@ -13,3 +13,5 @@ myenv/
 
 # ipynb checkpoints
 .ipynb_checkpoint/
+
+*.keras
