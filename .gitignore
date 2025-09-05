@@ -7,6 +7,7 @@ nltk_data/
 *.tar.gz
 *.log
 *.csv
+*.txt
 
 myenv/
 *.docx
